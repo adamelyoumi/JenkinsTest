@@ -12,7 +12,7 @@ pipeline {
         stage('build') {
             steps {
                 script (
-                    bat 'python main.py'
+                    'python main.py'
                 )
             }
         }
