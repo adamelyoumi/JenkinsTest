@@ -1,2 +1,4 @@
 # JenkinsTest
-Jenkins test pipeline
+Jenkins test pipeline.
+
+For educational pursposes only.
